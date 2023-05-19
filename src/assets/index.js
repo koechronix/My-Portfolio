@@ -26,7 +26,7 @@ import git from './tech/git.png';
 import html from './tech/html.png';
 import javascript from './tech/javascript.png';
 import nodejs from './tech/nodejs.png';
-import reactjs from './tech/reactjs.png';
+import reactjs from './tech/react.png';
 import tailwind from './tech/tailwind.png';
 import sqlite from './tech/sqlite.png';
 import sql from './tech/sql.png';

@@ -129,7 +129,7 @@ import {
           color: 'pink-text-gradient',
         },
       ],
-      image: komikult,
+      image: ticket,
       repo: 'https://github.com/koechronix/coderbyte-project',
       demo: 'https://coderbyte-ticket-app.vercel.app/',
     },

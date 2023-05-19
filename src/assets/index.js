@@ -36,12 +36,7 @@ import learnbuild from './company/learnbuild.jpeg';
 import technobrain from './company/technobrain.jpeg';
 import isandata from './company/isandata.jpeg';
 
-// import komikult from './projects/komikult.png';
-// import leaderboard from './projects/leaderboard.png';
-// import math from './projects/math-magicians.png';
-// import movie from './projects/movie-metro.png';
-// import nyeusi from './projects/nyeusi.png';
-// import space from './projects/space-hub.png';
+import ticket from './projects/ticket.png';
 
 export {
   map,
@@ -73,6 +68,7 @@ export {
   rubyrails,
   reactjs,
   tailwind,
+  ticket,
   learnbuild,
   technobrain,
   isandata,

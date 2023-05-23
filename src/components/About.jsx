@@ -37,7 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        I am Amos Koech, a software deveveloper,I am an enthusiastic and 
+        I am Amos Koech, a software deveveloper, an enthusiastic and 
         detail-oriented software engineer who is eager to contribute to the success
          of a team through hard work, excellent organizational skills, 
          and attention to detail. I have a clear understanding of project 

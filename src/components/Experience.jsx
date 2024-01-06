@@ -102,7 +102,7 @@ import {
                 ease-in-out"
                 onClick={() =>
                   window.open(
-                    'https://drive.google.com/file/d/1Dv-v_QJRf58ivQ_K5pOVhG4eRk2LBuIk/view?usp=sharing', //paste the link to your resume here
+                    'https://drive.google.com/file/d/1AAo3mfvp2QEhqTQ3UIm7OG34NXoN8Fmd/view?usp=sharing', //paste the link to your resume here
                     '_blank'
                   )
                 }

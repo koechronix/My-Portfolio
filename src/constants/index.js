@@ -12,9 +12,11 @@ import {
     rubyrails,
     sqlite,
     ticket,
+    // ticketmaster,
     learnbuild,
     technobrain,
-    isandata
+    isandata,
+    // elloe
   } from '../assets';
   
   export const navLinks = [
@@ -34,7 +36,7 @@ import {
   
   const services = [
     {
-      title: 'Frontend Developer',
+      title: 'Devops Practices',
       icon: frontend,
     },
     {
@@ -106,7 +108,14 @@ import {
       company_name: 'Learn & Build',
       icon: learnbuild,
       iconBg: '#333333',
-      date: 'May 2023 - Present',
+      date: 'May 2023 - July 2023',
+    },
+    {
+      title: 'DevOps Engineer',
+      company_name: 'Elloe AI',
+      icon: learnbuild,
+      iconBg: '#333333',
+      date: 'Aug 2023 - Present',
     },
   ];
   
@@ -114,7 +123,7 @@ import {
     {
       id: 'project-1',
       name: 'ticket',
-      description: 'A comic characters list app that displays Marvel characters.',
+      description: 'The Ticket Purchase App is a web application developed using the Vue.js framework with Vite and TypeScript. It allows users to browse and select the quantity they want to purchase tickets for various upcoming shows.',
       tags: [
         {
           name: 'react',
@@ -133,29 +142,52 @@ import {
       repo: 'https://github.com/koechronix/coderbyte-project',
       demo: 'https://coderbyte-ticket-app.vercel.app/',
     },
-    // {
-    //   id: 'project-2',
-    //   name: 'Leaderboard',
-    //   description:
-    //     'A leaderboard list app that displays scores submitted by different players.',
-    //   tags: [
-    //     {
-    //       name: 'react',
-    //       color: 'blue-text-gradient',
-    //     },
-    //     {
-    //       name: 'restapi',
-    //       color: 'green-text-gradient',
-    //     },
-    //     {
-    //       name: 'scss',
-    //       color: 'pink-text-gradient',
-    //     },
-    //   ],
-    //   image: leaderboard,
-    //   repo: 'https://github.com/shaqdeff/Leaderboard',
-    //   demo: 'https://shaqdeff.github.io/Leaderboard/',
-    // },
+    {
+      id: 'project-2',
+      name: 'Ticket Master',
+      description:
+        'The Ticket Purchase App is a web application developed using the React.js framework with Vite. It allows users to browse and select the quantity they want to purchase tickets for various upcoming shows.',
+      tags: [
+        {
+          name: 'react',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'restapi',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'scss',
+          color: 'pink-text-gradient',
+        },
+      ],
+      image: ticket,
+      repo: 'https://github.com/koechronix/coderbyte-front',
+      demo: 'https://coderbyte-project.vercel.app/',
+    },
+    {
+      id: 'project-3',
+      name: 'YouTube Clone',
+      description:
+        'This is a clone like youtube.',
+      tags: [
+        {
+          name: 'react',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'restapi',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'scss',
+          color: 'pink-text-gradient',
+        },
+      ],
+      image: ticket,
+      repo: 'https://github.com/koechronix/YouTube-Clone',
+      demo: 'https://aquamarine-centaur-f0be1a.netlify.app/',
+    },
     
   ];
   

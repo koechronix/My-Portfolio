@@ -29,7 +29,7 @@ const Contact = () => {
     //click on create a new template then click on save.
     emailjs
       .send(
-        'service_j4dxi2l', // paste your ServiceID here (you'll get one when your service is created).
+        'service_51d5swr', // paste your ServiceID here (you'll get one when your service is created).
         'template_eohgunk', // paste your TemplateID here (you'll find it under email templates).
         {
           from_name: form.name,
@@ -38,7 +38,7 @@ const Contact = () => {
           to_email: 'koechronix@gmail.com', //put your email here.
           message: form.message,
         },
-        'wXPbhhZCKM2BN8lng' //paste your Public Key here. You'll get it in your profile section.
+        'rveWxqvjZ_UlnLjif' //paste your Public Key here. You'll get it in your profile section.
       )
       .then(
         () => {

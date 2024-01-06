@@ -12,11 +12,16 @@ import {
     rubyrails,
     sqlite,
     ticket,
-    // ticketmaster,
+    ticketmaster,
+    youtubeclone,
     learnbuild,
     technobrain,
     isandata,
-    // elloe
+    elloe,
+    devops,
+    aws,
+    docker,
+    kubernetes
   } from '../assets';
   
   export const navLinks = [
@@ -46,6 +51,18 @@ import {
   ];
   
   const technologies = [
+    {
+      name: 'AWS',
+      icon: aws,
+    },
+    {
+      name: 'Kubernetes',
+      icon: kubernetes,
+    },
+    {
+      name: 'Docker',
+      icon: docker,
+    },
     {
       name: 'HTML 5',
       icon: html,
@@ -113,13 +130,35 @@ import {
     {
       title: 'DevOps Engineer',
       company_name: 'Elloe AI',
-      icon: learnbuild,
+      icon: elloe,
       iconBg: '#333333',
       date: 'Aug 2023 - Present',
     },
   ];
   
   const projects = [
+    {
+      id: 'project-1',
+      name: 'Git and jenkins ',
+      description: 'DevOps project.',
+      tags: [
+        {
+          name: 'react',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'mongodb',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'tailwind',
+          color: 'pink-text-gradient',
+        },
+      ],
+      image: devops,
+      // repo: 'https://github.com/koechronix/coderbyte-project',
+      demo: 'https://docs.google.com/presentation/d/1Jjzgkvk76zoXKomGx51EkNWiVDTjCRIz/edit?usp=sharing&ouid=116087740156427724000&rtpof=true&sd=true',
+    },
     {
       id: 'project-1',
       name: 'ticket',
@@ -161,7 +200,7 @@ import {
           color: 'pink-text-gradient',
         },
       ],
-      image: ticket,
+      image: ticketmaster,
       repo: 'https://github.com/koechronix/coderbyte-front',
       demo: 'https://coderbyte-project.vercel.app/',
     },
@@ -184,7 +223,7 @@ import {
           color: 'pink-text-gradient',
         },
       ],
-      image: ticket,
+      image: youtubeclone,
       repo: 'https://github.com/koechronix/YouTube-Clone',
       demo: 'https://aquamarine-centaur-f0be1a.netlify.app/',
     },

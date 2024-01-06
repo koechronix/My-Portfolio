@@ -31,12 +31,19 @@ import tailwind from './tech/tailwind.png';
 import sqlite from './tech/sqlite.png';
 import sql from './tech/sql.png';
 import rubyrails from './tech/rubyrails.png';
+import aws from './tech/aws.png';
+import docker from './tech/docker.png';
+import kubernetes from './tech/kubernetes.png'
 
 import learnbuild from './company/learnbuild.jpeg';
 import technobrain from './company/technobrain.jpeg';
 import isandata from './company/isandata.jpeg';
+import elloe from './company/elloe.jpeg';
 
 import ticket from './projects/ticket.png';
+import ticketmaster from './projects/ticketmaster.png';
+import youtubeclone from './projects/youtubeclone.png'
+import devops from './projects/devops.png'
 
 export {
   map,
@@ -72,4 +79,12 @@ export {
   learnbuild,
   technobrain,
   isandata,
+  elloe,
+  ticketmaster,
+  youtubeclone,
+  devops,
+  aws,
+  docker,
+  kubernetes
+
 };

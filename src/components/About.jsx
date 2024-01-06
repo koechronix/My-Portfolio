@@ -37,14 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        I am Amos Koech, a software deveveloper, an enthusiastic and 
-        detail-oriented software engineer who is eager to contribute to the success
-         of a team through hard work, excellent organizational skills, 
-         and attention to detail. I have a clear understanding of project 
-         requirements and possess exemplary problem-solving skills when faced 
-         with challenges. I am motivated to learn, grow, and excel in the technology field, 
-         and I have experience working in multi-cultural environments. Additionally, 
-         I possess good communication and soft skills.
+        I am Amos Koech,a Junior  DevOps Engineer with 8+ months specializing in seamless AWS migrations, performance optimization, and diverse AWS services. Adept at enhancing scalability through cloud technologies. Committed to promoting DevOps best practices, fostering collaboration, and driving innovation in dynamic, cloud-centric ecosystems. Experienced software developer bringing technical proficiency and strategic insights for optimal efficiency in DevOps practices.
         
       </motion.p>
 

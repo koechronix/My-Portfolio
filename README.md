@@ -39,5 +39,5 @@ npm run preview
 
 👤 **Amos Koech**
 
-- GitHub: [@amoskoech](https://github.com/koechronix)
+- GitHub: [@koechronix](https://github.com/koechronix)
 - LinkedIn: [Amos Koech](https://www.linkedin.com/in/amos-koech-/)

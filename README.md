@@ -1,5 +1,5 @@
 **My Portfolio**
-Link `https://nimble-axolotl-98f9e2.netlify.app/`
+- My Portfolio: [@Koech DevOps](https://nimble-axolotl-98f9e2.netlify.app/)
 
 ## Install
 

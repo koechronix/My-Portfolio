@@ -160,7 +160,7 @@ import {
       demo: 'https://docs.google.com/presentation/d/1Jjzgkvk76zoXKomGx51EkNWiVDTjCRIz/edit?usp=sharing&ouid=116087740156427724000&rtpof=true&sd=true',
     },
     {
-      id: 'project-1',
+      id: 'project-2',
       name: 'ticket',
       description: 'The Ticket Purchase App is a web application developed using the Vue.js framework with Vite and TypeScript. It allows users to browse and select the quantity they want to purchase tickets for various upcoming shows.',
       tags: [
@@ -182,7 +182,7 @@ import {
       demo: 'https://fanciful-genie-198c37.netlify.app/',
     },
     {
-      id: 'project-2',
+      id: 'project-3',
       name: 'Ticket Master',
       description:
         'The Ticket Purchase App is a web application developed using the React.js framework with Vite. It allows users to browse and select the quantity they want to purchase tickets for various upcoming shows.',
@@ -205,7 +205,7 @@ import {
       demo: 'https://coderbyte-project.vercel.app/',
     },
     {
-      id: 'project-3',
+      id: 'project-4',
       name: 'YouTube Clone',
       description:
         'This is a clone like youtube.',

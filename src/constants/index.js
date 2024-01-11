@@ -179,7 +179,7 @@ import {
       ],
       image: ticket,
       repo: 'https://github.com/koechronix/coderbyte-project',
-      demo: 'https://coderbyte-ticket-app.vercel.app/',
+      demo: 'https://fanciful-genie-198c37.netlify.app/',
     },
     {
       id: 'project-2',
